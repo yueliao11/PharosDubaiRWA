@@ -1,0 +1,22 @@
+{
+  "common": {
+    "connect": "连接钱包",
+    "disconnect": "断开连接",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  },
+  "nav": {
+    "properties": "房产",
+    "howItWorks": "运作方式",
+    "marketInsights": "市场洞察",
+    "staking": "质押"
+  },
+  "auth": {
+    "startKyc": "开始KYC",
+    "continueKyc": "继续KYC",
+    "kycApproved": "KYC已批准",
+    "kycRejected": "KYC已拒绝",
+    "kycPending": "KYC审核中"
+  }
+}

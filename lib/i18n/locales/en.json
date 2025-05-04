@@ -1,0 +1,22 @@
+{
+  "common": {
+    "connect": "Connect Wallet",
+    "disconnect": "Disconnect",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "nav": {
+    "properties": "Properties",
+    "howItWorks": "How It Works",
+    "marketInsights": "Market Insights",
+    "staking": "Staking"
+  },
+  "auth": {
+    "startKyc": "Start KYC",
+    "continueKyc": "Continue KYC",
+    "kycApproved": "KYC Approved",
+    "kycRejected": "KYC Rejected",
+    "kycPending": "KYC Under Review"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "common": {
+    "connect": "ربط المحفظة",
+    "disconnect": "قطع الاتصال",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجاح"
+  },
+  "nav": {
+    "properties": "العقارات",
+    "howItWorks": "كيف يعمل",
+    "marketInsights": "رؤى السوق",
+    "staking": "التخزين"
+  },
+  "auth": {
+    "startKyc": "بدء KYC",
+    "continueKyc": "متابعة KYC",
+    "kycApproved": "تمت الموافقة على KYC",
+    "kycRejected": "تم رفض KYC",
+    "kycPending": "KYC قيد المراجعة"
+  }
+}

@@ -1,0 +1,6 @@
+pnpm exec ts-node -e "import { Wallet } from 'ethers'; console.log(new Wallet('0x965657f6405c4856cb1fa7cf8954ca40e19fcebf2e05dab0c4a0bab63b464970').address)"
+q
+node -e "console.log(new (require('ethers').Wallet)('0x965657f6405c4856cb1fa7cf8954ca40e19fcebf2e05dab0c4a0bab63b464970').address)"
+q
+node -e "console.log(require('ethers').Wallet.fromPrivateKey('0x965657f6405c4856cb1fa7cf8954ca40e19fcebf2e05dab0c4a0bab63b464970').address)"
+q
